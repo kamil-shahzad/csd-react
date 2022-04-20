@@ -1,0 +1,57 @@
+.sdbar{
+    display: flex;
+
+}
+.buttons{
+    display: contents;
+}
+.sidebarmain{
+flex: 1;
+background-color: rgb(228, 88, 88);
+}
+
+.leftsidebar{
+  
+    flex: 4;
+}
+.ilist{
+    list-style: none;
+    margin: 12px 8px;
+}
+.ulist{
+    font-weight: 600;
+}
+.ulist :hover{
+    background-color: red;
+}
+.leftsidebar{
+    padding: 10px;
+
+    box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+-webkit-box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+-moz-box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+display: flex;
+}
+.pluaicons{
+    color: green;
+}
+.pluaicons1{
+    color: red;
+}
+.leftbox{
+    padding: 40px;
+    display: flex;
+    height: 90px;
+    box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+    -webkit-box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+    -moz-box-shadow: 0px 5px 3px -2px rgba(237,41,41,0.55);
+}
+.leftbox :hover{
+  
+}
+.boxsubheading{
+    color: rgb(167, 173, 180);
+}
+.leftbox1{
+     background-color: rgb(211, 113, 113);
+}

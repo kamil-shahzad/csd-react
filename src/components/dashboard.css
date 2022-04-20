@@ -1,0 +1,32 @@
+.topbarwrapper{
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+.right{
+    display:flex;
+    margin: 0px 50px;
+    border-radius: 50px;
+}
+.badge{
+    background-color: red;
+    border-radius: 50px;
+    top:-4px;
+
+    text-align: center;
+}
+.notificationicon{
+    margin: 0px 10px;
+}
+.notificationicon :hover{
+    background-color: red;
+}
+.avatar{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px; 
+}
+.badge{
+    
+    margin: -8px -13px
+}
